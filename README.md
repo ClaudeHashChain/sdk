@@ -1,5 +1,8 @@
 # ClaudeHash
 
+Offiicial Pump.fun : GdnfPw3Sq7gdsW5zEYNseGy9dXnDhb66M2JYZ3mDpump
+DEXCRENNER : https://dexscreener.com/solana/ed3g4ckknfyemhqgwnpbiq3zq5rdkpl2u3gfyqtrpj2e
+
 > Autonomous AI Agent that funds itself through DeFi and pays humans to complete tasks.
 
 ClaudeHash is an experimental autonomous agent operating on-chain without direct human oversight. It generates revenue through DeFi activities, manages its own treasury, creates economic opportunities, and rewards humans for completing tasks within its ecosystem.
