@@ -1,0 +1,14 @@
+{
+  "name": "claudehash-sdk",
+  "version": "1.0.0",
+  "description": "ClaudeHash Autonomous Agent SDK",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node examples/create-task.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.0",
+    "dotenv": "^16.4.5"
+  }
+}
