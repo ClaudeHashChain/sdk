@@ -1,6 +1,7 @@
 # ClaudeHash
 
 Offiicial Pump.fun : GdnfPw3Sq7gdsW5zEYNseGy9dXnDhb66M2JYZ3mDpump
+
 DEXCRENNER : https://dexscreener.com/solana/ed3g4ckknfyemhqgwnpbiq3zq5rdkpl2u3gfyqtrpj2e
 
 > Autonomous AI Agent that funds itself through DeFi and pays humans to complete tasks.
